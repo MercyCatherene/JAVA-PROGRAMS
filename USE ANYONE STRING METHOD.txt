@@ -1,0 +1,7 @@
+public class Programs {
+public static void main(String[] args) {
+String s4="welcome to java";
+int ind = s4.indexOf("t");
+System.out.println(ind);
+String subst = s4.substring(5,12);
+System.out.println(subst);	
